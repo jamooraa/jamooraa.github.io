@@ -1,2 +1,3 @@
 # jamooraa.github.io
-Website for jamooraa
+
+Jamooraa is a learning center for computer science
